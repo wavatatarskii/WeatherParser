@@ -1,0 +1,9 @@
+D:\DDDIPLOM\Parser\WebParserConsole\WebParserConsole\bin\Debug\WebParserConsole.exe.config
+D:\DDDIPLOM\Parser\WebParserConsole\WebParserConsole\bin\Debug\WebParserConsole.exe
+D:\DDDIPLOM\Parser\WebParserConsole\WebParserConsole\bin\Debug\WebParserConsole.pdb
+D:\DDDIPLOM\Parser\WebParserConsole\WebParserConsole\bin\Debug\System.Json.dll
+D:\DDDIPLOM\Parser\WebParserConsole\WebParserConsole\bin\Debug\System.Web.UI.DataBinder.dll
+D:\DDDIPLOM\Parser\WebParserConsole\WebParserConsole\bin\Debug\Vse.Web.Serialization.dll
+D:\DDDIPLOM\Parser\WebParserConsole\WebParserConsole\bin\Debug\Vse.Web.Serialization.pdb
+D:\DDDIPLOM\Parser\WebParserConsole\WebParserConsole\obj\Debug\WebParserConsole.exe
+D:\DDDIPLOM\Parser\WebParserConsole\WebParserConsole\obj\Debug\WebParserConsole.pdb
